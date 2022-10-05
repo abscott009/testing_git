@@ -1,1 +1,7 @@
 This file is for practice purposes.
+
+Adding a new line
+
+New line again
+
+Last line I'm adding
